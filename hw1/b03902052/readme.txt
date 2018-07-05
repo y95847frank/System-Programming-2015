@@ -1,0 +1,1 @@
+我是用select去偵測，看是否有client連線或有東西輸入到server中，再去handle輸入的指令或連線。
